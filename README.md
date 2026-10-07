@@ -46,10 +46,7 @@ flowchart TD
 
 ---
 
-## 💻 Código 
-
-Make es una plataforma *no-code*, así que el "código" del proyecto es el **blueprint** del escenario (archivo JSON exportable). Está en este repositorio:
-
+## Código 
 📁 [`blueprint/chatbot-biodiversidad.json`](blueprint/chatbot-biodiversidad.json)
 
 > Para importarlo: en Make, abre un escenario nuevo → menú **⋮** → **Import Blueprint** → selecciona el archivo.
