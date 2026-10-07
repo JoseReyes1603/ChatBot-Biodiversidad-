@@ -42,7 +42,7 @@ Si el usuario escribe sin mandar foto, el bot le recuerda amablemente que necesi
 
 Demostración del bot funcionando.
 
-▶️ **[Ver video en YouTube](https://youtube.com/shorts/i9hdWazd1fQ?feature=share))**
+▶️ **[Ver video en YouTube](https://youtube.com/shorts/i9hdWazd1fQ?feature=share)**
 
 ---
 
