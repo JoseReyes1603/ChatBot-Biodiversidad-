@@ -47,13 +47,5 @@ Demostración del bot funcionando.
 ---
 
 ## 📊 Resultados
-
-| Prueba | Entrada | Resultado esperado | Resultado obtenido |
-|---|---|---|---|
-| 1 | Foto de planta sana | Identificación y cuidados | ✅ Correcto |
-| 2 | Foto de planta con hojas secas o manchas | Diagnóstico del problema y solución | ✅ Correcto |
-| 3 | Foto con comentario ("se le caen las hojas") | Respuesta que toma en cuenta el comentario | ✅ Correcto |
-| 4 | Mensaje de texto sin foto ("Hola") | Recordatorio amable pidiendo imagen | ✅ Correcto |
-| 5 | Comando `/start` | Mensaje de bienvenida / recordatorio | ✅ Correcto |
-| 6 | Foto que no es planta | Aviso amable y petición de otra foto | ✅ Correcto |
+[Ver reporte de la práctica (PDF)](https://github.com/JoseReyes1603/PRACTICA-SENSOR-DE-HUMEDAD-/blob/main/Resultados/Practica_Monitor_Humedad_UNO_R3.pdf)
 
