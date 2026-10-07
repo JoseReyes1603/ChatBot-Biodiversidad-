@@ -47,5 +47,5 @@ Demostración del bot funcionando.
 ---
 
 ## 📊 Resultados
-[Ver reporte de la práctica (PDF)](https://github.com/JoseReyes1603/PRACTICA-SENSOR-DE-HUMEDAD-/blob/main/Resultados/Practica_Monitor_Humedad_UNO_R3.pdf)
+[Ver reporte de la práctica (PDF)](https://github.com/JoseReyes1603/ChatBot-Biodiversidad-/blob/main/Resultados/Resultados_Chatbot_Biodiversidad.pdf)
 
