@@ -46,7 +46,7 @@ flowchart TD
 
 ---
 
-## 💻 Código / Configuración
+## 💻 Código 
 
 Make es una plataforma *no-code*, así que el "código" del proyecto es el **blueprint** del escenario (archivo JSON exportable). Está en este repositorio:
 
@@ -57,20 +57,9 @@ Make es una plataforma *no-code*, así que el "código" del proyecto es el **blu
 
 ## 🖼️ Imágenes
 
-### Escenario completo en Make
-![Escenario en Make](imagenes/escenario-make.png)
 
-### Configuración del Make AI Agent
-![Configuración del agente](imagenes/ai-agent.png)
 
-### Filtros del Router
-![Filtros del router](imagenes/filtros-router.png)
 
-### Bot funcionando en Telegram
-![Diagnóstico en Telegram](imagenes/telegram-diagnostico.png)
-![Recordatorio en Telegram](imagenes/telegram-recordatorio.png)
-
----
 
 ## 🎥 Video
 
