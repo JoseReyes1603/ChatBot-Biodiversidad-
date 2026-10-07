@@ -33,36 +33,16 @@ Si el usuario escribe sin mandar foto, el bot le recuerda amablemente que necesi
 
 ---
 
-## 🏗️ Arquitectura del escenario
-
-```mermaid
-flowchart TD
-    A[1. Telegram Bot<br/>Watch Updates] --> B{2. Router}
-    B -- Filtro: Tiene foto --> C[3. Telegram Bot<br/>Download a File]
-    C --> D[4. Make AI Agent<br/>Run an agent]
-    D --> E[5. Telegram Bot<br/>Enviar diagnóstico]
-    B -- Filtro: No tiene foto --> F[6. Telegram Bot<br/>Enviar recordatorio]
-```
-
----
-
 ## Código 
 [main.txt](Código/main.txt)
-
-> Para importarlo: en Make, abre un escenario nuevo → menú **⋮** → **Import Blueprint** → selecciona el archivo.
-
-
 ## 🖼️ Imágenes
-
-
-
-
+<img width="500" height="300" alt="Evidencia Chatbot biodiversidad" src="https://github.com/user-attachments/assets/305d2f31-a671-4098-91ce-ac012e184f46" /> <img width="300" height="500" alt="Evidencia 2 Chatbot biodiversidad" src="https://github.com/user-attachments/assets/911dcc78-fbba-4178-a55d-ff13d86f1173" />
 
 ## 🎥 Video
 
 Demostración del bot funcionando: envío de foto, diagnóstico de la IA y recordatorio cuando no se envía imagen.
 
-▶️ **[Ver video en YouTube / Google Drive](PEGA_AQUI_EL_LINK_DEL_VIDEO)**
+▶️ **[Ver video en YouTube](https://youtube.com/shorts/i9hdWazd1fQ?feature=share))**
 
 ---
 
