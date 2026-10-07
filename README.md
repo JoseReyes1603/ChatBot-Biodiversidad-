@@ -47,7 +47,7 @@ flowchart TD
 ---
 
 ## Código 
-📁 [`blueprint/chatbot-biodiversidad.json`](blueprint/chatbot-biodiversidad.json)
+[Chatbot Biodiversidad.blueprint.json](https://github.com/user-attachments/files/33134294/Chatbot.Biodiversidad.blueprint.json)
 
 > Para importarlo: en Make, abre un escenario nuevo → menú **⋮** → **Import Blueprint** → selecciona el archivo.
 
