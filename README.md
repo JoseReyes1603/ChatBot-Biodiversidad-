@@ -40,7 +40,7 @@ Si el usuario escribe sin mandar foto, el bot le recuerda amablemente que necesi
 
 ## 🎥 Video
 
-Demostración del bot funcionando: envío de foto, diagnóstico de la IA y recordatorio cuando no se envía imagen.
+Demostración del bot funcionando.
 
 ▶️ **[Ver video en YouTube](https://youtube.com/shorts/i9hdWazd1fQ?feature=share))**
 
